@@ -34,13 +34,6 @@
 - **MySQL** – Database management
 - **CSS / JS** – Custom styling and interactivity
 
-<br>
-
-### Credintials
-userename: admin <br>
-password: gaurav110601 <br>
-
-
 
 <br><br>
 <!-- ................................................................................................................................. -->
